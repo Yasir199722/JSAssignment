@@ -1,0 +1,26 @@
+.mobile{
+    max-width: 50;
+    height: auto;
+}
+.mob{
+    max-width: 50%;
+    height: auto;
+}
+
+.modal-backdrop {
+    display:none;
+}
+.modal-open .modal {
+    width: 300px;
+    margin: 0 auto;
+}
+.button{
+    padding: 3px 6px;
+}
+.button img{
+    vertical-align: middle;
+}
+h1{
+    background-color: aqua;
+    color: red;
+}
